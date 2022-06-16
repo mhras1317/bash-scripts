@@ -1,3 +1,3 @@
 # programming
 
-The completest repository of python scripts.
+This is a simple project.
